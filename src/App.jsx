@@ -12,7 +12,7 @@ const material = (
           <img id="PicID" src="IMG_8224 2.jpg" alt="My moment captured" width="450" height="450"></img><br/><br/>
       </div>
       <div id="GHubDiv">
-          <p><a id="MyGitID" href="https://github.com/swanandsb"></a></p>
+          <p><a id="MyGitID" href="https://github.com/swanandsb">My GitHub</a></a></p>
       </div>
   </div>
 )
